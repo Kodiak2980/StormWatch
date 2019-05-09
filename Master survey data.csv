@@ -1,0 +1,62 @@
+Q1- Time taken,Q1- Observed, Q1-Correct, Q1-Accuracy,Q2- Timing taken,Q2- observed,Q2- expected,Q2- accuracy,Q3- Time taken,Q3- observed,Q3- correct,Q3- Accuracy,time-taken,Q 2.1 - time taken,Q2.1- observed,Q2.1 - expected,Q2.1- Accuracy,Q2.2 - time taken,Q2.2 - observed,Q2.2 - expected,Q2.2- Accuracy ,Q2.3- time taken,Q2.3- observed,Q2.3- expected,Q2.3 Accuracy,time-taken2,QD1,QD2,QD3,QD4,QD5,QD6,QD7,QD8,QD9
+38.418,6,6,0,30.539,6,6,0,18.413,1,1,0,87.37,22.209,5,5,0,29.67,5,6,1,40.314,53,60,7,120.214,Somewhat familiar,Somewhat familiar,3,Texas,30-39,Male,White,North Carolina,Master’s degree
+4.594,2,6,4,10.167,6,6,0,9.401,1,1,0,24.162,3.319,1,5,4,9.3,6,6,0,3.174,1,60,59,79.704,Very familiar,Very familiar,2,Texas,40-49,Female,White,Texas,
+60.92,0,6,6,38.131,6,6,0,25.309,1,1,0,124.36,49.879,5,5,0,40.133,5,6,1,46.242,34,60,26,214.015,Very unfamiliar,Somewhat unfamiliar,3,New York,30-39,Female,White,New York,Some college
+132.973,4,6,2,30.056,5,6,1,6.325,3,1,-2,169.354,31.931,5,5,0,81.217,5,6,1,49.522,50,60,10,339.672,Somewhat familiar,Somewhat familiar,2,Florida,30-39,Male,Other,Indiana,Master’s degree
+51.298,6,6,0,40.56,6,6,0,34.63,1,1,0,126.488,44.424,5,5,0,50.534,5,6,1,89.101,57,60,3,320.641,Very unfamiliar,Somewhat familiar,1,Texas,30-39,Male,White,Pennsylvania,Master’s degree
+51.354,6,6,0,40.793,6,6,0,28.764,1,1,0,120.911,42.569,5,5,0,31.958,5,6,1,143.619,62,60,-2,216.589,Somewhat unfamiliar,Somewhat familiar,2,Texas,21-29,Male,White,Outside of the United States,Bachelor’s degree
+66.925,6,6,0,57.902,6,6,0,32.935,1,1,0,157.762,51.675,5,5,0,43.678,5,6,1,63.72,60,60,0,281.866,Somewhat unfamiliar,Somewhat familiar,1,Oklahoma,60+,Male,White,Pennsylvania,Bachelor’s degree
+96.448,6,6,0,48.607,6,6,0,68.702,1,1,0,213.757,30.56,6,5,-1,61.836,5,6,1,80.426,50,60,10,404.801,Somewhat unfamiliar,Somewhat unfamiliar,3,Lousiana,18-20,Male,White,Arizona,Some college
+51.885,6,6,0,47.346,6,6,0,36.112,1,1,0,135.343,66.414,5,5,0,35.146,5,6,1,129.208,57,60,3,365.993,Somewhat unfamiliar,Somewhat familiar,3,Texas,21-29,Male,White,California,Bachelor’s degree
+70.362,0,6,6,69.357,6,6,0,68.386,1,1,0,208.105,70.035,5,5,0,44.907,5,6,1,195.504,55,60,5,335.446,Very unfamiliar,Somewhat unfamiliar,1,Oklahoma,30-39,Male,White,Ohio,Some college
+28.745,6,6,0,40.876,6,6,0,25.715,1,1,0,95.336,28.934,6,5,-1,18.725,5,6,1,82.434,54,60,6,158.189,Somewhat familiar,Somewhat familiar,2,Texas,21-29,Male,White,California,Bachelor’s degree
+66.132,6,6,0,63.029,6,6,0,95.585,1,1,0,224.746,45.016,5,5,0,29.529,5,6,1,44.128,50,60,10,296.494,Very familiar,Somewhat familiar,4,Florida,21-29,Male,White,Arkansas,Bachelor’s degree
+24.025,6,6,0,25.12,6,6,0,14.8,1,1,0,63.945,21.828,5,5,0,17.336,5,6,1,42.219,40,60,20,122.295,Somewhat familiar,Somewhat familiar,1,Kansas,40-49,Male,White,Pennsylvania,High school diploma or GED
+28.67,6,6,0,26.713,6,6,0,17.736,1,1,0,73.119,25.455,5,5,0,22.752,5,6,1,41.014,52,60,8,177.986,Somewhat unfamiliar,Somewhat familiar,1,Texas,21-29,Female,White,Oregon,Bachelor’s degree
+37.894,6,6,0,34.655,6,6,0,33.374,1,1,0,105.923,22.536,5,5,0,26.848,5,6,1,82.115,62,60,-2,251.857,Very unfamiliar,Somewhat familiar,1,Oklahoma,30-39,Female,White,Kentucky,Some college
+22.668,6,6,0,25.756,6,6,0,20.396,1,1,0,68.82,22.918,5,5,0,15.714,5,6,1,119.086,62,60,-2,85.536,Very unfamiliar,Somewhat familiar,1,Oklahoma,21-29,Male,White,Outside of the United States,Master’s degree
+1.244,2,6,4,1.422,2,6,4,0.895,2,1,-1,3.561,0.67,2,5,3,0.646,2,6,4,1.002,2,60,58,66.234,Very familiar,Somewhat familiar,3,,21-29,Female,American Indian or Alaska Native,,High school diploma or GED
+35.956,6,6,0,28.136,6,6,0,21.344,1,1,0,85.436,29.485,5,5,0,38.371,5,6,1,62.027,50,60,10,128.846,Somewhat familiar,Somewhat familiar,1,Texas,21-29,Male,Asian,Illinois,Some college
+10.201,2,6,4,8.259,5,6,1,19.38,0,1,1,37.84,8.37,3,5,2,8.612,1,6,5,5.039,1,60,59,107.648,Very unfamiliar,Somewhat unfamiliar,3,Ohio,21-29,Male,White,Florida,Doctorate degree
+45.803,6,6,0,62.749,5,6,1,38.846,1,1,0,147.398,30.728,5,5,0,20.882,4,6,2,61.196,50,60,10,176.908,Very familiar,Somewhat familiar,3,Texas,21-29,Female,Asian,Outside of the United States,Bachelor’s degree
+28.333,6,6,0,25.971,5,6,1,23.146,1,1,0,77.45,16.454,5,5,0,9.708,4,6,2,8.628,50,60,10,134.978,Very familiar,Very familiar,2,Texas,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+34.94,6,6,0,30.937,5,6,1,48.054,1,1,0,113.931,49.628,5,5,0,25.211,5,6,1,47.82,20,60,40,217.951,Very unfamiliar,Very unfamiliar,3,Florida,30-39,Male,Black or African American,Arizona,Some college
+423.143,0,6,6,40.657,5,6,1,37.065,1,1,0,500.865,43.782,5,5,0,113.441,5,6,1,78.809,49,60,11,695.423,Somewhat familiar,Somewhat familiar,4,Texas,30-39,Female,Asian,Indiana,Master’s degree
+41.164,11,6,-5,31.123,2,6,4,74.04,1,1,0,146.327,49.734,5,5,0,34.823,5,6,1,81.117,61,60,-1,258.095,Very familiar,Very familiar,4,Ohio,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+37.68,11,6,-5,140.903,6,6,0,37.598,1,1,0,216.181,49.44,5,5,0,115.19,5,6,1,76.945,5,60,55,393.579,Somewhat unfamiliar,Very unfamiliar,4,None,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+29.252,6,6,0,47.872,6,6,0,28.708,1,1,0,105.832,24.935,5,5,0,24.649,5,6,1,62.208,55,60,5,205.337,Very unfamiliar,Somewhat familiar,1,Texas,40-49,Female,White,New York,Master’s degree
+49.176,11,6,-5,284.257,0,6,6,106.172,5,1,-4,439.605,31.728,5,5,0,29.209,5,6,1,74.856,52,60,8,507.527,Very familiar,Somewhat familiar,3,None,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+41.212,6,6,0,52.747,6,6,0,31.525,1,1,0,125.484,54.477,5,5,0,33.603,5,6,1,38.713,30,60,30,162.693,Very unfamiliar,Somewhat familiar,1,Oklahoma,30-39,Female,White,California,Master’s degree
+17.106,3,6,3,3.409,7,6,-1,140.124,4,1,-3,160.639,12.205,3,5,2,3.29,4,6,2,3.606,2,60,58,237.84,Somewhat unfamiliar,Somewhat unfamiliar,3,New York,21-29,Male,White,New York,Bachelor’s degree
+46.78,6,6,0,53.513,0,6,6,45.43,1,1,0,145.723,34.365,5,5,0,38.6,5,6,1,73.911,65,60,-5,219.551,Somewhat unfamiliar,Somewhat unfamiliar,1,Texas,50-59,Male,White,Florida,Some college
+54.571,6,6,0,58.787,6,6,0,43.305,1,1,0,156.663,56.359,5,5,0,56.991,3,6,3,35.228,4,60,56,333.885,Somewhat familiar,Somewhat unfamiliar,2,Indiana,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+57.979,6,6,0,41.924,6,6,0,38.689,1,1,0,138.592,35.008,5,5,0,136.071,5,6,1,120.231,47,60,13,319.912,Somewhat unfamiliar,Somewhat familiar,1,Texas,60+,Female,White,Missouri,Some college
+29.835,6,6,0,48.791,6,6,0,17.289,1,1,0,95.915,30.358,5,5,0,28.025,5,6,1,45.249,55,60,5,158.729,Somewhat familiar,Very familiar,3,Florida,30-39,Female,White,Alaska,Bachelor’s degree
+32.121,6,6,0,67.804,0,6,6,25.18,1,1,0,125.105,16.735,6,5,-1,31.141,5,6,1,34.789,32,60,28,202.563,Very unfamiliar,Very unfamiliar,3,Texas,30-39,Male,White,California,Bachelor’s degree
+55.005,6,6,0,63.021,6,6,0,26.011,1,1,0,144.037,42.142,5,5,0,40.972,5,6,1,46.317,30,60,30,379.425,Very unfamiliar,Very unfamiliar,3,Texas,21-29,Female,White,Minnesota,High school diploma or GED
+87.154,6,6,0,73.722,6,6,0,65.428,1,1,0,226.304,39.752,5,5,0,59.185,5,6,1,194.416,50,60,10,367.256,Somewhat unfamiliar,Somewhat familiar,2,Texas,40-49,Male,Asian,Ohio,Doctorate degree
+39.853,6,6,0,28.215,6,6,0,22.918,1,1,0,90.986,34.831,5,5,0,22.727,5,6,1,81.767,58,60,2,156.311,Somewhat unfamiliar,Somewhat familiar,1,Texas,21-29,Male,White,Missouri,Some college
+24.027,6,6,0,66.628,6,6,0,16.678,2,1,-1,107.333,19.518,5,5,0,24.993,5,6,1,42.598,60,60,0,255.371,Very unfamiliar,Somewhat familiar,2,Oklahoma,21-29,Male,Black or African American,California,Some college
+7.56,0,6,6,21.037,0,6,6,5.657,0,1,1,34.254,57.102,6,5,-1,111.533,5,6,1,123.045,46,60,14,194.489,Somewhat unfamiliar,Somewhat familiar,3,Texas,30-39,Male,Black or African American,Virginia,Bachelor’s degree
+41.361,6,6,0,65.92,6,6,0,33.392,1,1,0,140.673,82.701,5,5,0,45.62,5,6,1,48.702,53,60,7,245.554,Somewhat familiar,Somewhat familiar,2,Oklahoma,21-29,,White,Pennsylvania,Bachelor’s degree
+55.251,6,6,0,43.982,6,6,0,23.239,1,1,0,122.472,35.081,5,5,0,36.168,5,6,1,59.261,60,60,0,247.306,Very unfamiliar,Very unfamiliar,3,Ohio,21-29,Female,Black or African American,Texas,Bachelor’s degree
+83.45,11,6,-5,64.698,6,6,0,21.486,1,1,0,169.634,43.468,5,5,0,46.285,5,6,1,88.666,52,60,8,294.689,Very familiar,Very familiar,5,Texas,21-29,Male,White,Arizona,Master’s degree
+39.922,6,6,0,38.21,6,6,0,22.918,1,1,0,101.05,99.168,5,5,0,30.212,5,6,1,78.77,52,60,8,167.035,Somewhat familiar,Somewhat familiar,1,Texas,30-39,Male,White,Ohio,Some college
+78.91,6,6,0,31.044,6,6,0,29.436,1,1,0,139.39,37.046,5,5,0,28.602,5,6,1,35.773,35,60,25,218.81,Very unfamiliar,Somewhat familiar,3,Texas,21-29,Male,White,California,Some college
+27.72,0,6,6,31.013,6,6,0,49.15,1,1,0,107.883,56.465,5,5,0,27.189,5,6,1,50.818,45,60,15,224.468,Somewhat unfamiliar,Somewhat unfamiliar,3,Texas,21-29,Female,Asian,Maryland,Some college
+63.401,6,6,0,67.841,6,6,0,47.829,1,1,0,179.071,69.935,5,5,0,58.624,5,6,1,89.396,56,60,4,315.695,Somewhat familiar,Somewhat familiar,4,Florida,60+,Male,White,Wisconsin,Some college
+49.822,6,6,0,48.747,0,6,6,47.37,0,1,1,145.939,39.568,5,5,0,44.247,5,6,1,78,51,60,9,239.488,Somewhat familiar,Somewhat familiar,2,Texas,50-59,Female,White,,Some college
+34.127,6,6,0,463.583,0,6,6,18.193,3,1,-2,515.903,24.638,5,5,0,31.888,0,6,6,49.302,51,60,9,597.88,Very unfamiliar,Very unfamiliar,1,Oklahoma,21-29,Male,White,Arizona,High school diploma or GED
+53.226,0,6,6,77.041,6,6,0,32.973,1,1,0,163.24,49.516,5,5,0,99.704,5,6,1,50.089,45,60,15,376.962,Very unfamiliar,Very unfamiliar,3,Texas,21-29,Male,White,Nebraska,Some college
+29.165,6,6,0,29.398,6,6,0,22.585,1,1,0,81.148,21.134,5,5,0,20.496,5,6,1,114.018,62,60,-2,180.842,Somewhat unfamiliar,Somewhat familiar,1,Texas,21-29,Male,White,New Jersey,Bachelor’s degree
+52.797,6,6,0,24.475,6,6,0,33.14,1,1,0,110.412,32.375,4,5,1,29.941,5,6,1,79.198,52,60,8,194.531,Very unfamiliar,Somewhat unfamiliar,2,Texas,50-59,Female,White,Kentucky,Some college
+29.527,6,6,0,37.086,6,6,0,20.121,1,1,0,86.734,22.442,5,5,0,22.877,5,6,1,54.178,99,60,-39,139.469,Very unfamiliar,Somewhat unfamiliar,3,Texas,21-29,Male,White,Nevada,Some college
+28.207,6,6,0,32.181,6,6,0,38.575,1,1,0,98.963,39.024,5,5,0,28.455,5,6,1,29.858,20,60,40,226.448,Very unfamiliar,Somewhat unfamiliar,2,Florida,21-29,Female,White,California,Some college
+444.296,6,6,0,208.429,6,6,0,63.435,1,1,0,716.16,75.239,5,5,0,372.408,5,6,1,99.03,40,60,20,1115.701,Somewhat unfamiliar,Somewhat unfamiliar,4,None,21-29,Male,Asian,Outside of the United States,Bachelor’s degree
+26.57,0,6,6,39.666,6,6,0,25.531,0,1,1,91.767,21.686,6,5,-1,23.872,5,6,1,27.133,40,60,20,327.847,Somewhat unfamiliar,Somewhat familiar,2,Nebraska,21-29,Male,White,Pennsylvania,Bachelor’s degree
+62.761,6,6,0,53.859,6,6,0,28.335,1,1,0,144.955,81.968,5,5,0,62.337,5,6,1,212.208,60,60,0,292.735,Somewhat familiar,Very familiar,3,Texas,50-59,Male,White,Wisconsin,Some college
+44.997,11,6,-5,49.222,6,6,0,33.697,1,1,0,127.916,43.817,5,5,0,20.22,5,6,1,85.443,56,60,4,239.02,Somewhat familiar,Somewhat familiar,1,Oklahoma,30-39,Male,White,Washington,Some college
+42.245,6,6,0,35.924,6,6,0,20.119,1,1,0,98.288,39.251,5,5,0,68.049,5,6,1,90.884,53,60,7,580.597,Somewhat unfamiliar,Somewhat unfamiliar,1,Kansas,21-29,Male,Asian,Virginia,Some college
+94.724,6,6,0,94.36,6,6,0,64.2,1,1,0,253.284,76.82,5,5,0,193.586,5,6,1,414.26,61,60,-1,524.272,Very unfamiliar,Somewhat unfamiliar,1,Texas,50-59,Male,Other,California,Bachelor’s degree
+47.669,6,6,0,87.643,6,6,0,47.019,1,1,0,182.331,44.812,5,5,0,33.252,5,6,1,77.402,56,60,4,298.012,Somewhat unfamiliar,Somewhat familiar,1,Oklahoma,50-59,Male,White,Massachusetts,Master’s degree
+38.355,8,6,-2,51.748,6,6,0,22.78,1,1,0,112.883,44.812,5,5,0,53.229,5,6,1,82.429,61,60,-1,166.112,Somewhat unfamiliar,Somewhat unfamiliar,2,Kansas,21-29,Male,White,Pennsylvania,Some college
